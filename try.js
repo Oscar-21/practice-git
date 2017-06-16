@@ -3,3 +3,9 @@ foo = () => {
 }
 
 foo();
+
+boo = () => {
+  console.log('boo boo');
+}
+
+boo();
