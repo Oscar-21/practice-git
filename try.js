@@ -9,3 +9,9 @@ boo = () => {
 }
 
 boo();
+
+doo = () => {
+  console.log('boo boo');
+}
+
+doo();
